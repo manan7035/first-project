@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: gray;
+}
+
+h1 {
+  font-size: 45px;
+  line-height: 55px;
+  font-weight: 600;
+  color: white;
+}
